@@ -30,7 +30,7 @@ To compile, in terminal, type "make". To run, type "./Project3". Once it is done
 
 Implementation details
 ======================
-The program attempts to find the shortest path by means of the A* algorithm. The heuristic used is the Euclidean Distance. 
+The program attempts to find the shortest path by means of the A* algorithm. The heuristic used is the Euclidean Distance. This can be changed to use the Manhattan distance, or be changed to Dijkstra's by changing the heuristic to 0.
 
 Possible future changes
 =======================
